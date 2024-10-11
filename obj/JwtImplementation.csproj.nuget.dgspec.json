@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Test\\source\\repos\\JwtImplementation\\JwtImplementation\\JwtImplementation.csproj": {}
+    "D:\\Dot Net Core Projects\\JwtImplementation\\JwtImplementation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Test\\source\\repos\\JwtImplementation\\JwtImplementation\\JwtImplementation.csproj": {
+    "D:\\Dot Net Core Projects\\JwtImplementation\\JwtImplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Test\\source\\repos\\JwtImplementation\\JwtImplementation\\JwtImplementation.csproj",
+        "projectUniqueName": "D:\\Dot Net Core Projects\\JwtImplementation\\JwtImplementation.csproj",
         "projectName": "JwtImplementation",
-        "projectPath": "C:\\Users\\Test\\source\\repos\\JwtImplementation\\JwtImplementation\\JwtImplementation.csproj",
+        "projectPath": "D:\\Dot Net Core Projects\\JwtImplementation\\JwtImplementation.csproj",
         "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Test\\source\\repos\\JwtImplementation\\JwtImplementation\\obj\\",
+        "outputPath": "D:\\Dot Net Core Projects\\JwtImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Test\\AppData\\Roaming\\NuGet\\NuGet.Config",
